@@ -23,7 +23,7 @@ It contains the following tasks, to be done in VS Code and Github.
 
 _The objective of these exercises are to familiarize ourselves with Github and their functions._
 
-_If you face any errors, do paste it onto this chat thread and we will review together._
+_If you face any errors, do paste them onto this chat thread and we will review together._
 
 Thank you!
 
