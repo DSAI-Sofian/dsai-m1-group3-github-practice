@@ -2,9 +2,9 @@
 **Github Practice (DS2F Group 3)**
 
 The purpose of this branch is to enable us to practise Git commands and commits between group members.
+It contains the following tasks, to be done in VS Code and Github.
 
 **Activity 1**
-The main branch consists of the following tasks, using VS Code.
 1. Fork this branch to your PC.
 2. Create a new folder to this branch in VS Code (Hint: Use the MK DIR set of commands).
 3. Commit that folder to the main forked branch.
@@ -21,7 +21,7 @@ The main branch consists of the following tasks, using VS Code.
 6. We will then commit our new files from our local drive to the forked branch on Github.
 7. Then we need to generate a pull request for you to update your original branch.
 
-_The objective of this exercise is to familiarize ourselves with Github and their functions._
+_The objective of these exercises are to familiarize ourselves with Github and their functions._
 
 _If you face any errors, do paste it onto this chat thread and we will review together._
 
